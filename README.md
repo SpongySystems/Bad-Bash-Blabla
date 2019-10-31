@@ -1,1 +1,1 @@
-# Bad-Bash-Blabla
+# Here you find my Bash scripts.
